@@ -1,4 +1,4 @@
-# komutcu
+# Komutcu Linux Destek Asistanı
 
 **CachyOS / Arch Linux için Türkçe terminal komut asistanı.**
 
